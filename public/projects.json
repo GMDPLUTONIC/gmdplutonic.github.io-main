@@ -1,0 +1,25 @@
+{
+	"projects": [
+		{
+			"name": "Personal Site",
+			"description": "My new website, written in NextJS. This was my first web framework project.",
+			"status": "Ongoing",
+			"link": "https://github.com/GMDPLUTONIC/gmdplutonic.github.io",
+			"extra": {
+				"height": 20,
+				"width": 173,
+				"src": "https://wakatime.com/badge/github/gmdplutonic/gmdplutonic.github.io.svg",
+				"alt": "wakatime"
+			}
+		{
+			"name": "Personal Site",
+			"description": "My old website, written in HTML and CSS. This was my first web project.",
+			"status": "Abandoned"
+			},
+		{
+			"name": "AcerMenu"
+        	"description": "A full fledged mod menu for GD which will have 50+ features",
+         	"status": "Ongoing"
+		}
+	]
+}
